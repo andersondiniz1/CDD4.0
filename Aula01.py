@@ -6,6 +6,6 @@ if Num % 2 == 0:
 else: 
     print("É impar.");
 
-###############################
+############################### python /workspaces/CDD4.0/Aula01.py 
 
 
