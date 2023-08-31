@@ -44,12 +44,28 @@ else:
 
 # # Media de 2 notas
 # nome = input("Digite seu nome: ")
-# nota1 = int(input("Digite primeira nota: "))
-# nota2 = int(input("Digite segunda nota: "))
+# nota1 = float(input("Digite primeira nota: "))
+# nota2 = float(input("Digite segunda nota: "))
 # soma = nota1 + nota2
 # media = soma / 2
 # # media = (nota1 + nota2) / 2
 # print(f"Seu nome é: {nome}. \nÉ sua média é: {media}")
+
+# # DADOS SOBRE CADASTRO FUNCIONARIO
+# # Variaveis
+# nome = input("Digite seu nome: ")
+# idade = int(input("Digite sua idade: "))
+# salario = float(input("Digite seu salario: "))
+# porcentagem = float(input("Digite porcentagem de aumento: "))
+# filhos = int(input("Quantos filhos voce tem?" ))
+
+# #Calculos
+# acrescimo = (salario * porcentagem) / 100 # aumento porcentagem
+# acrescimo2 = filhos * 150                 # filhos
+# acrescimo3 = (salario + acrescimo) / 3    # ferias | 1/3 do salario.
+# totalSalario = (salario + acrescimo) + acrescimo2
+# print(f"Seu nome é: {nome}. \nSua idade é: {idade}. \nSeu salário é: R$ {salario} com acrescimo de %{porcentagem}: R$ {acrescimo}, acrescimo de {filhos} filhos: R$ {acrescimo2}, acrescimo de: R$ {acrescimo3}, total: R$ {totalSalario}")
+
 
 
 
