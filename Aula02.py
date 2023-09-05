@@ -60,3 +60,57 @@
 
 ############################### python /workspaces/CDD4.0/Aula01.py ###############################
 
+# # Variaveis time
+# time1 = input("Digite nome do primeiro time: ")
+# gols1 = int(input(f"Digite a quantidade de gols do time {time1}: "))
+# time2 = input("Digite nome do segundo time: ")
+# gols2 = int(input(f"Digite a quantidade de gols do time {time2}: "))
+#
+# # Placar
+# print("================ PLACAR ================")
+# print(f"[{time1} - {gols1}]            [{time2} - {gols2}]")
+# print("========================================")
+#
+# # # Condição de vitoria
+# if gols1 == gols2:
+#     print(f"Jogo empatado entre {time1} e {time2}")
+# elif gols1 > gols2:
+#     print(f"Time {time1} venceu a partida!")
+# else:
+#     print(f"Time {time2} venceu a partida!")
+
+############################### ou ###############################
+
+# # Condição de vitoria
+# if gols1 != gols2:
+#     if gols1 > gols2:
+#         print(f"Time {time1} venceu a partida!")
+#     else:
+#         print(f"Time {time2} venceu a partida!")
+# else:
+#     print(f"Jogo empatado entre {time1} e {time2}")
+
+############################### python /workspaces/CDD4.0/Aula01.py ###############################
+
+# # Variaveis
+# g = 5.80
+# e = 4.90
+
+# # Input do cliente
+# print(f"Preço litro de gasolina é: R${g} | Preço litro de etanol é: R${e}")
+# tipo = input(f"Digite o tipo de combustivel 'G' para gasolina é 'E' para etanol: ")
+
+# # Condição
+# if tipo == "g" or tipo == "e" or tipo == "G" or tipo == "E":
+#     if tipo == "g" or "G":
+#         litro = int(input(f"Digite a quantidade em litros de gasolina que deseja: "))
+#         preco = g * litro
+#         print(f"Gasolina R${preco}")
+#     elif tipo == "e" or "E":
+#         litro = int(input(f"Digite a quantidade em litros de etanol que deseja: "))
+#         preco = e * litro
+#         print(f"Etanol R${preco}")
+#     else:
+#         print("Invalido!")
+# else:
+#     tipo = input(f"Letra invalida, Digite o tipo de combustivel 'G' para gasolina é 'E' para etanol: ")
