@@ -1,0 +1,24 @@
+# Programação Orientada a Objetos POO
+
+# Objetos tem atributos(variavel) e metodos(função)
+
+# (Procedure ou procedimento)
+# def media(n1,n2):
+#     media = (n1+n2) / 2
+#     print(media)
+
+# (Função ou metodo, por conta de retornar o valor)
+# def media(n1,n2):
+#     media = (n1+n2) / 2
+#     return media
+
+# class cadeira(cor, pernas, encosto, apoio_braco, assento)
+# class carro(velocidade, nome, rodas, portas, cor, motor, cambio) -> metodos: acelerar(), frear(), trocar_marcha()
+# nome: fusca, rodas: 5, portas: 4, cor: azul, cambio: 5, motor: 1600
+
+# abstração = simplificar
+# encapisulamento = proteger
+# herança = super, sub (class animal extends class mamifero) criar uma nova classe atraves de uma classe ja existente
+# polimorfismo = quando precisa reescrever um metodo que foi recebido por herança
+
+
