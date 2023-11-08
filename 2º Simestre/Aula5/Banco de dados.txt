@@ -1,0 +1,30 @@
+Dados é diferente da informação.
+IBGE coleta dados de uma casa gera informação.
+
+Uma base de dados é uma coleção de dados relacionais ou conjunto de arquivos relacionados entre si.
+
+Banco de dados -> 
+Dado -> 
+Conteudo do Campo -> 
+Modelo de Banco de Dados -> 
+SGBD -> Sistema de Gerenciamento de Banco de Dados, exemplo: MySql.
+DBA -> Administrador de banco de dados, exemplo: Oracle.
+
+Projeto de Banco de Dados -> Modelo Conceitual, Logico e Fisico.
+
+Modelo Conceitual ->
+Diagrama de entidade e relacinamento ->
+
+Modelo Logico ->
+
+Modelo Fisico ->
+
+
+------------------------------------------------------
+
+Entidade:
+Atributo: Simples e Composto / valoruninco ou multivalorado podem ser armazenado e derivados
+Chave:
+relacionamento:
+Entidade Associativa:
+
