@@ -17,5 +17,6 @@ public class Aula04 {
             System.out.println(--c);
         else
             System.out.println(c++);
+            
     }   
 }
