@@ -7,7 +7,7 @@ public class Aula01 {
         int idade;
         idade = 22;
         int caixas = 30;
-        final double PI;
+       // final double PI;
         
         System.out.println(++idade);
         System.out.println(caixas);

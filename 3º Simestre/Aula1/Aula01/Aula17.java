@@ -19,7 +19,7 @@ public class Aula17 {
             numero = 3 * numero + 1;
             System.out.println("Numero: " + numero);
         }
-
+    input.close();
     }
 }
 
