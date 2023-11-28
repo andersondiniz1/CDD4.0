@@ -10,6 +10,7 @@ public class Aula01 {
         final double PI;
         
         System.out.println(++idade);
+        System.out.println(caixas);
 
     }
 

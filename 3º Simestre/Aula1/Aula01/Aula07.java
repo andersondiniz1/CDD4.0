@@ -11,5 +11,7 @@ public class Aula07 {
         double resp = entrada.nextDouble();
 
         System.out.println(resp); 
+
+        entrada.close();
     }
 }

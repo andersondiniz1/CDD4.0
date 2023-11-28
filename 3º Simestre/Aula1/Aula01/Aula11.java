@@ -26,7 +26,7 @@ public class Aula11 {
 
         System.out.println(" "); 
         System.out.println("Numeros ímpares: "); 
-        
+
         while (cont <= numero){
 
             if (cont % 2 == 1) {
@@ -34,5 +34,6 @@ public class Aula11 {
             }
             cont++;
         }
+    input.close();
     }
 }
