@@ -25,5 +25,5 @@ public class Aula23 {
         media = soma / notas.length;
 
         System.out.println("Média dos 5 alunos: " + media);
-    } 
+    }
 }
