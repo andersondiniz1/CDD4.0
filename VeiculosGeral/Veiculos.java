@@ -12,4 +12,8 @@ public class Veiculos {
         this.cor = cor;
         this.preco = preco;
     }
+
+    public void locomover(){
+        System.out.println("Andou");
+    }
 }

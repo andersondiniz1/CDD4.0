@@ -7,6 +7,7 @@ public class main {
         veiculo1.motor = "1600";
         veiculo1.portas = 2;
         veiculo1.combustivel = "Gasolina";
+        veiculo1.locomover();
         System.out.println("Nome: " + veiculo1.nome);
         System.out.println("Cor: " + veiculo1.cor);
         System.out.println("Preco: " + veiculo1.preco);
