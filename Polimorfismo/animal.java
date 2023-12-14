@@ -1,16 +1,19 @@
-package VeiculosGeral;
+// Permite que o desenvolvedor use o mesmo elemento de formas diferentes. "Muitas formas"
 
-public class Veiculos {
-   
+package Polimorfismo;
+
+public class animal {
+    
     public String nome;
     public String cor;
-    double preco;
-    
 
-    public Veiculos(String nome, String cor, double preco) {
+    public animal(String nome, String cor) {
         this.nome = nome;
         this.cor = cor;
-        this.preco = preco;
+    }
+    
+    public void som(){
+        System.out.println("Efeito sonoro.");
     }
 
     public void frente(){
