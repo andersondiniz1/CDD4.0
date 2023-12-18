@@ -1,4 +1,4 @@
-package Encapsulamento.funcionarios.pets;
+package Encapsulamento.pets;
 
 public class pet {
 
